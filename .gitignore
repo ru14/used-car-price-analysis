@@ -15,11 +15,12 @@ env/
 .vscode/
 .idea/
 
-# Data files
+# Data files (allow the project dataset via Git LFS)
 *.csv
 *.tsv
 *.pkl
 *.h5
+!data/vehicles.csv
 
 # Logs
 *.log
