@@ -4,6 +4,7 @@ A data science project following the **CRISP-DM framework** to identify the key 
 
 ## Dataset
 
+The dataset is sourced from Kaggle: [Used Cars Dataset](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data)
 
 1. Download `vehicles.csv` from the link above.
 2. Place it in a `data/` subdirectory at the root of this repository:
